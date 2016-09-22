@@ -1,4 +1,4 @@
 # Introduction to GitHub
-presented by\\
-@yannlamontagne\\
-@sillyd\\
+presented by
+- [@yannlamontagne](https://github.com/yannlamontagne)
+- [@sillyd](https://github.com/sillyd)
