@@ -1,12 +1,12 @@
 # Introduction to GitHub
-presented by
+###presented by
 - [@yannlamontagne](https://github.com/yannlamontagne)
 - [@sillyd](https://github.com/sillyd)
 
-participants:
+###participants:
 -
 
-Outline of Workshop:
+## Outline of Workshop:
 * Account registration (https://github.com/join?source=header-home)
 * 
 * 
