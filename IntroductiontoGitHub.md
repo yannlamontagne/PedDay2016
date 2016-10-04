@@ -9,6 +9,7 @@
 ## Outline of Workshop:
 * Account registration (https://github.com/join?source=header-home)
 * 
+h
 * 
 test
 added line from desktop app
