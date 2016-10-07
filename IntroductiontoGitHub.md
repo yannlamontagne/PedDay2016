@@ -7,7 +7,6 @@
 
 
 ## Outline of Workshop:
-<<<<<<< HEAD
 1. Introduction
 2. Account registration (https://github.com/join?source=header-home)
 3. Example of using GitHub (point of view of creator of a repository)
