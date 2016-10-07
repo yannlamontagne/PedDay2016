@@ -7,6 +7,7 @@
 
 
 ## Outline of Workshop:
+<<<<<<< HEAD
 1. Introduction
 2. Account registration (https://github.com/join?source=header-home)
 3. Example of using GitHub (point of view of creator of a repository)
@@ -23,7 +24,7 @@
       3. Submit a pull request to the original repository.
   2. Haiku collaboration.
     A Haiku (俳句) is a very short form of Japanese poetry. [...] haiku consist of 17 [...] "syllables", in three phrases of 5, 7, and 5 on respectively. (https://en.wikipedia.org/wiki/Haiku)
-    
+
     Instructions: (in groups of three)
       1. Each member creates a repository for their Haiku.
       2. Fork the Haiku of the members of your group analyse the Haiku and commit suggestions.
@@ -37,4 +38,3 @@
 
 ## Reference:
 1. GitHub Glossary (https://help.github.com/articles/github-glossary/)
-
