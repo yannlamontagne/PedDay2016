@@ -8,7 +8,7 @@
 
 ## Outline of Workshop:
 1. Introduction [IntroductiontoGitHub.pdf](https://github.com/yannlamontagne/PedDay2016/raw/master/IntroductiontoGitHub_slides/IntroductiontoGitHub.pdf)
-2. Example of collaboration using GitHub [cegep_linear_algebra_problems.pdf](https://github.com/yannlamontagne/cegep_linear_algebra_problems/raw/master/src/cegep_linear_algebra_problems.pdf)
+2. Example of a collaboration using GitHub [cegep_linear_algebra_problems.pdf](https://github.com/yannlamontagne/cegep_linear_algebra_problems/raw/master/src/cegep_linear_algebra_problems.pdf)
 3. Account registration (https://github.com/join?source=header-home)
 4. Example of using GitHub (point of view of creator of a repository)
   1. Creating and using a repository
