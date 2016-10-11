@@ -14,7 +14,7 @@
   1. Creating and using a repository
     * Concepts: Repository, Clone, Commit, Branches, Tags, Pull, Merge
   2. Collaboration throught GitHub
-    * Concepts: Fork, Pull request, Discussion on pull request, Merge
+    * Concepts: Fork, Pull request, Discussion on pull request, Merge, Conflict Resolve
 5. Example of using GitHub (point of view of pull requester to a repository)
 6. Group Collaboration
   1. Modification of this file by all participants.
