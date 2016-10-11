@@ -7,15 +7,16 @@
 
 
 ## Outline of Workshop:
-1. Introduction
-2. Account registration (https://github.com/join?source=header-home)
-3. Example of using GitHub (point of view of creator of a repository)
+1. Introduction [IntroductiontoGitHub.pdf](https://github.com/yannlamontagne/PedDay2016/raw/master/IntroductiontoGitHub_slides/IntroductiontoGitHub.pdf)
+2. Example of collaboration using GitHub [cegep_linear_algebra_problems.pdf](https://github.com/yannlamontagne/cegep_linear_algebra_problems/raw/master/src/cegep_linear_algebra_problems.pdf)
+3. Account registration (https://github.com/join?source=header-home)
+4. Example of using GitHub (point of view of creator of a repository)
   1. Creating and using a repository
     * Concepts: Repository, Clone, Commit, Branches, Tags, Pull, Merge
   2. Collaboration throught GitHub
     * Concepts: Fork, Pull request, Discussion on pull request, Merge
-4. Example of using GitHub (point of view of pull requester to a repository)
-5. Group Collaboration
+5. Example of using GitHub (point of view of pull requester to a repository)
+6. Group Collaboration
   1. Modification of this file by all participants.
     Instructions:
       1. Fork this repository.
@@ -29,7 +30,7 @@
       2. Fork the Haiku of the members of your group analyse the Haiku and commit suggestions.
       3. Submit a pull request to the original repository.
       4. Commit or discard the pull request.
-6. Website hosted on GitHub (if time permits)
+7. Website hosted on GitHub (if time permits)
 
 ## Software:
 1. Atom: A hackable text editor for the 21st Century (https://atom.io/)
