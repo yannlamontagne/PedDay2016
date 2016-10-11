@@ -11,9 +11,9 @@
 2. Account registration (https://github.com/join?source=header-home)
 3. Example of using GitHub (point of view of creator of a repository)
   1. Creating and using a repository
-    * Concepts: Repository, Commit, Branches, Tags, Pull, Merge
+    * Concepts: Repository, Clone, Commit, Branches, Tags, Pull, Merge
   2. Collaboration throught GitHub
-    * Concepts: Pull request, Discussion on pull request, Merge
+    * Concepts: Fork, Pull request, Discussion on pull request, Merge
 4. Example of using GitHub (point of view of pull requester to a repository)
 5. Group Collaboration
   1. Modification of this file by all participants.
