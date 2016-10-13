@@ -11,7 +11,7 @@
   3. How to contribute to the project:
     1. Fork the repository.
     2. Clone the repository on the local computer(downstream).
-    3. Make a new branch for your suggested problems.
+    3. Make a new branch for your suggested contribution.
     4. Commit your changes to the new branch.
     5. Sync with GitHub your branch.
     5. Do a pull request.
@@ -23,7 +23,7 @@
 ## Software:
 1. Atom: A hackable text editor for the 21st Century (https://atom.io/)
 2. GitHub Desktop (https://desktop.github.com/)
-3. TexStudio (http://www.texstudio.org/)
+3. TexStudio (http://www.texstudio.org/) or TeXshop (http://pages.uoregon.edu/koch/texshop/)
 
 ## Reference:
 1. GitHub Glossary (https://help.github.com/articles/github-glossary/)
